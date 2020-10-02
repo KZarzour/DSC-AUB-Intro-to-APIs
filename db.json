@@ -4,8 +4,16 @@
       "id": 1,
       "name": "Karim",
       "favorite food" : "Burgers",
-      "yob" : 2000
+      "hobby" : "Scouting"
+    },
+    
+    {
+      "id": 2,
+      "name": "Hussein",
+      "favorite food" : "Pizza",
+      "hobby" : "Piano"
     }
+    
   ],
   "profile": {
     "name": "KZarzour"
