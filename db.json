@@ -3,28 +3,28 @@
     {
       "id": 1,
       "name": "Karim",
-      "favorite food" : "Burgers",
+      "favFood" : "Burgers",
       "hobby" : "Scouting"
     },
     
     {
       "id": 2,
       "name": "Hussein",
-      "favorite food" : "Pizza",
+      "favFood" : "Pizza",
       "hobby" : "Piano"
     },
     
     {
       "id": 3,
       "name": "Maria",
-      "favorite food" : "Salad",
+      "favFood" : "Salad",
       "hobby" : "MAM"
     },
     
     {
       "id": 4,
       "name": "Charbel",
-      "favorite food" : "Wings/Crepes",
+      "favFood" : "Wings/Crepes",
       "hobby" : "Competitive Programming"
     }
     
