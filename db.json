@@ -2,7 +2,9 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Karim",
+      "favorite food" : "Burgers",
+      "yob" : 2000
     }
   ],
   "profile": {
