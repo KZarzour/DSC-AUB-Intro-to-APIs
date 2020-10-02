@@ -12,7 +12,22 @@
       "name": "Hussein",
       "favorite food" : "Pizza",
       "hobby" : "Piano"
+    },
+    
+    {
+      "id": 3,
+      "name": "Maria",
+      "favorite food" : "Salad",
+      "hobby" : "MAM"
+    },
+    
+    {
+      "id": 4,
+      "name": "Charbel",
+      "favorite food" : "Wings/Crepes",
+      "hobby" : "Competitive Programming"
     }
+    
     
   ],
   "profile": {
